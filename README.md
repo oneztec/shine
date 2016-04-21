@@ -1,0 +1,2 @@
+# shine
+csharp learning
